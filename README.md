@@ -33,3 +33,13 @@ Java provides `ArrayList`, but this project recreates similar behavior **without
 ---
 
 ## :open_file_folder: Project Structure
+vectorImpl.java
+ - vector → Core dynamic array implementation
+ - vectorImpl → Driver class with menu-based interaction
+ 
+ ## ▶️ How to Run
+ 
+ # Compile
+ javac vectorImpl.java
+ # Run
+ java vectorImpl
